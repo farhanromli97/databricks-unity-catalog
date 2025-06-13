@@ -31,7 +31,7 @@ This project documents the process in setting up unity catalog and implementing 
 ### 3. Setting up Unity Catalog
 
 - Go to the Azure Databricks Account Console
-- ![image](https://github.com/user-attachments/assets/1bae207f-e28e-4c79-9ba3-e8cf06379553)
+![image](https://github.com/user-attachments/assets/1bae207f-e28e-4c79-9ba3-e8cf06379553)
 
 - Create a new metastore
  - Ensure to select the same region as the databricks workspace and storage containers
