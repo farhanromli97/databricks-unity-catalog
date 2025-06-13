@@ -23,7 +23,7 @@ This project documents the process in setting up unity catalog and implementing 
 
 ### 2. Setting up Access Connector for Azure Databricks
 
-- Provision the Access Connector for Azure Databricks resource
+- Provision the Access Connector for Azure Databricks
 
 ![image](https://github.com/user-attachments/assets/ca0e1972-322d-41ae-b831-f2467dd3c1f8)
 
