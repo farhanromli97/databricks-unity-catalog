@@ -28,6 +28,18 @@ This project documents the process in setting up unity catalog and implementing 
 - Ensure to select the same region as the storage containers
 - Assign the Storage Blob Data Contributor to the managed identity of the connector
 
+### 3. Setting up Unity Catalog
+
+- Go to the Azure Databricks Account Console
+![image](https://github.com/user-attachments/assets/1bae207f-e28e-4c79-9ba3-e8cf06379553)
+- Create a new metastore
+ - Ensure to select the same region as the databricks workspace and storage containers
+ - Fill in the ADLS2 storage path using one of the storage containers created previously
+ - Fiil in the subscription ID of the Access Connector created previously
+![image](https://github.com/user-attachments/assets/fa43c67c-ab34-48f9-80e1-e0f13ebbed17)
+- 
+
+
 ## Resources
 
 - [Udemy: Databricks - Master Azure Databricks for Data Engineers](https://www.udemy.com/course/master-azure-databricks-for-data-engineers/)
