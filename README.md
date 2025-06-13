@@ -12,7 +12,7 @@ This project documents the process in setting up unity catalog and implementing 
 
 ## Getting Started
 
-### 1. Setting up storage containers
+### 1. Setting up Storage Containers
 
 - Create 3 storage containers
   - One is for the metastore root
@@ -21,6 +21,11 @@ This project documents the process in setting up unity catalog and implementing 
 
 ![image](https://github.com/user-attachments/assets/139ae8a1-171e-499b-abc5-9d5f00160c4c)
 
+### 2. Setting up Access Connector for Azure Databricks
+
+- Provision the Access Connector for Azure Databricks resource
+![image](https://github.com/user-attachments/assets/ca0e1972-322d-41ae-b831-f2467dd3c1f8)
+- Ensure to select the same region as the storage containers
 
 ## Resources
 
