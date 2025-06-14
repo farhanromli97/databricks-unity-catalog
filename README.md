@@ -44,17 +44,14 @@ This project documents the process in setting up unity catalog and implementing 
 - Assign the users/groups to the required databricks workspace
 ![image](https://github.com/user-attachments/assets/970b435d-c1e5-492c-a18b-60da45df1a92)
 
-### 4. Setting up Catalog
 
-- 
-
-### 5. Setting up External Locations
+### 4. Setting up External Locations
 
 - Go to External Data
 
   ![image](https://github.com/user-attachments/assets/45d969ca-e8bb-4fc0-a1c7-4c4ed2a398b1)
 
-- Create the external locations
+- Create a new external location
   - Provide the name 
   - Fill in the ADLS directory path
   - Fill in the storage credential
@@ -63,6 +60,18 @@ This project documents the process in setting up unity catalog and implementing 
 - Set up external locations accordingly using different directories
 ![image](https://github.com/user-attachments/assets/eea7a0af-c199-4033-a586-dea504e35a7d)
 
+- Grant the necessary permissions to the users/groups for the external locations except for the ones to be used for catalog's storage location
+  ![image](https://github.com/user-attachments/assets/ef5ed4ea-979f-4dad-a63f-65c1895da721)
+
+
+### 5. Setting up Catalog
+
+- Create a new catalog
+  - Choose the relevant storage location based on the external locations created previously 
+  ![image](https://github.com/user-attachments/assets/0649c4f8-d799-4d92-aeff-e4669681032d)
+
+- Grant the necessary permissions to the users/groups
+  ![image](https://github.com/user-attachments/assets/3909253a-80d3-4528-ad84-dc21089c9e01)
 
 
 
