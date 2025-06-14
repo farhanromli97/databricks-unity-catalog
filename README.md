@@ -69,7 +69,6 @@ This project documents the process in setting up unity catalog and implementing 
 - Create a new catalog
   - Choose the relevant storage location based on the external locations created previously 
   ![image](https://github.com/user-attachments/assets/0649c4f8-d799-4d92-aeff-e4669681032d)
-
 - Grant the necessary permissions to the users/groups
   ![image](https://github.com/user-attachments/assets/3909253a-80d3-4528-ad84-dc21089c9e01)
 
