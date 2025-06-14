@@ -28,7 +28,7 @@ This project documents the process in setting up unity catalog and implementing 
 - Ensure to select the same region as the storage containers
 - Assign the Storage Blob Data Contributor to the managed identity of the connector
 
-### 3. Setting up Unity Catalog
+### 3. Setting up Unity Catalog Metastore
 
 - Go to the Azure Databricks Account Console
 
@@ -43,6 +43,23 @@ This project documents the process in setting up unity catalog and implementing 
   ![image](https://github.com/user-attachments/assets/cf1d2316-4aec-4643-942a-30c478cce3c4)
 - Assign the users/groups to the required databricks workspace
 ![image](https://github.com/user-attachments/assets/970b435d-c1e5-492c-a18b-60da45df1a92)
+
+### 4. Setting up Catalog
+
+
+### 5. Setting up External Locations
+- Go to External Data
+![image](https://github.com/user-attachments/assets/45d969ca-e8bb-4fc0-a1c7-4c4ed2a398b1)
+
+- Create the external locations
+  - Provide the name 
+  - Fill in the ADLS directory path
+  - Fill in the storage credential
+  ![image](https://github.com/user-attachments/assets/fa7bc57a-8a89-4886-9e20-d4e69f1501e6)
+
+- Set up external locations accordingly using different directories
+![image](https://github.com/user-attachments/assets/5f297961-08d2-402d-9242-08f7de1bd6a2)
+
 
 
 ## Resources
