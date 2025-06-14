@@ -46,6 +46,7 @@ This project documents the process in setting up unity catalog and implementing 
 
 ### 4. Setting up Catalog
 
+- 
 
 ### 5. Setting up External Locations
 
@@ -60,7 +61,8 @@ This project documents the process in setting up unity catalog and implementing 
   ![image](https://github.com/user-attachments/assets/fa7bc57a-8a89-4886-9e20-d4e69f1501e6)
 
 - Set up external locations accordingly using different directories
-![image](https://github.com/user-attachments/assets/5f297961-08d2-402d-9242-08f7de1bd6a2)
+![image](https://github.com/user-attachments/assets/eea7a0af-c199-4033-a586-dea504e35a7d)
+
 
 
 
