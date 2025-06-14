@@ -49,7 +49,7 @@ This project documents the process in setting up unity catalog and implementing 
 
 ### 5. Setting up External Locations
 - Go to External Data
-  ![image](https://github.com/user-attachments/assets/45d969ca-e8bb-4fc0-a1c7-4c4ed2a398b1)
+    ![image](https://github.com/user-attachments/assets/45d969ca-e8bb-4fc0-a1c7-4c4ed2a398b1)
 
 - Create the external locations
   - Provide the name 
